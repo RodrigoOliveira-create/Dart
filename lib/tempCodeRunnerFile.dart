@@ -1,0 +1,2 @@
+
+  //var peso = stdin.readLineSync()!;
